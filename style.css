@@ -11,6 +11,7 @@ background-color: #39ac71;
   margin: auto;
   padding: 20px;
   line-height: 5px;
+min-width 500px;
 }
 
 /* Removes borders from images */
@@ -19,7 +20,7 @@ border: none;}
 
 /* modifies all images to have a max width and border*/
 img {
-max-width: 30%;
+max-width: 650px;
 border: 1.5px solid#22774b;}
 
 /*creates a box around a division*/
@@ -82,4 +83,4 @@ a:active  { color: #45d38f }
 
 /* an active width modifier for the footer image, needs streamlined later */
 .widthmod{
-max-width: 20%}
+max-width: 175px}
