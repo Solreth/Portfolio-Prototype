@@ -35,7 +35,6 @@ border: 1.5px solid#22774b;}
 /*aligns the nav*/
 nav {
 text-align: center;
-margin-top: 25px;
 }
 
 /*creates wrapped graphical buttons for text/links*/
@@ -84,3 +83,6 @@ a:active  { color: #45d38f }
 /* an active width modifier for the footer image, needs streamlined later */
 .widthmod{
 max-width: 200px}
+
+.margintop {
+margin-top: 25px;}
