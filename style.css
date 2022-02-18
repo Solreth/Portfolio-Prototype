@@ -84,5 +84,6 @@ a:active  { color: #45d38f }
 .widthmod{
 max-width: 200px}
 
+/* modifies the margins of certain sections to better fit when screen downsizes*/
 .margintop {
 margin-top: 25px;}
