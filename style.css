@@ -32,14 +32,14 @@ border: 1.5px solid#22774b;}
   border: 1.5px solid#22774b
 }
 
-/*aligns the nav and sets a top margin*/
+/*aligns the nav*/
 nav {
 text-align: center;
-margin-top: 25px;
 }
 
 /*creates wrapped graphical buttons for text/links*/
 .button {
+  margin-top: 25px;
   font-size: 16px;
   text-align: center;
   text-decoration: none;
