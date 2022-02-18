@@ -19,7 +19,7 @@ border: none;}
 
 /* modifies all images to have a max width and border*/
 img {
-max-width: 700px;
+max-width: 50%;
 border: 1.5px solid#22774b;}
 
 /*creates a box around a division*/
@@ -82,4 +82,4 @@ a:active  { color: #45d38f }
 
 /* an active width modifier for the footer image, needs streamlined later */
 .widthmod{
-max-width: 200px}
+max-width: 20%}
