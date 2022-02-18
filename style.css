@@ -19,7 +19,7 @@ border: none;}
 
 /* modifies all images to have a max width and border*/
 img {
-max-width: 50%;
+max-width: 30%;
 border: 1.5px solid#22774b;}
 
 /*creates a box around a division*/
